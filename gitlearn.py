@@ -2,6 +2,4 @@
 for i in range(5):
     print(i)
 
-
-# 在ubuntu中编辑的内容
-
+# 发现两个编辑冲突后做的修改
